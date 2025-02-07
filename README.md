@@ -2,8 +2,6 @@
 This a MLOps bootcamp I learned following Data Talk Club, the git repos is available here: https://github.com/DataTalksClub/mlops-zoomcamp/tree/main !
 
 ## Overview
-______ 
-
 ### Objective
 Teach practical aspects of productionizing ML services — from training and experimenting to model deployment and monitoring.
 
@@ -16,3 +14,6 @@ Data scientists and ML engineers. Also software engineers and data engineers int
 - Being comfortable with command line
 - Prior exposure to machine learning (at work or from other courses, e.g. from ML Zoomcamp)
 - Prior programming experience (at least 1+ year)
+
+### Data source
+- Intro homework data source: nyc.gov/site/tlc/about/tlc-trip-record-data.page
